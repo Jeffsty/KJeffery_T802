@@ -1,0 +1,6 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+10:10:05,10:11:50,F,Check Zone1 Response 2,Wednesday,March,10,1
+11:34:15,11:38:56,F,Reset LCD Test Mode,Wednesday,March,11,1
+12:07:05,12:11:09,F,Check Key Switch ON,Wednesday,March,12,1
+13:06:19,13:11:35,F,Check Input1 SC,Wednesday,March,13,1
+15:57:30,16:00:55,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Wednesday,March,15,1

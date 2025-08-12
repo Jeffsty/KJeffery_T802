@@ -1,0 +1,13 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+10:32:21,10:33:55,F,Voltage Check +3V3,Wednesday,January,10,0
+10:38:13,10:38:20,F,Resistance Measure +3V3,Wednesday,January,10,0
+10:39:10,10:39:18,F,Resistance Measure +3V3,Wednesday,January,10,0
+10:54:26,10:57:49,F,Silence Alarms Key,Wednesday,January,10,1
+11:28:20,11:34:09,F,Voltage Check +3V3,Wednesday,January,11,1
+12:21:48,12:22:51,F,RS485 COMMS CHECK,Wednesday,January,12,1
+13:02:06,13:03:08,F,RS485 COMMS CHECK,Wednesday,January,13,0
+13:03:48,13:04:51,F,RS485 COMMS CHECK,Wednesday,January,13,0
+14:21:22,14:22:23,F,RS485 COMMS CHECK,Wednesday,January,14,1
+14:32:26,14:36:28,F,Reset LCD Test Mode,Wednesday,January,14,1
+14:47:47,14:54:09,F,Reset LCD Test Mode,Wednesday,January,14,1
+15:32:07,15:34:33,F,Check Fixture Closed,Wednesday,January,15,0

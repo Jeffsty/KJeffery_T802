@@ -1,0 +1,13 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+10:25:04,10:26:43,F,Check Zone1 Response 2,Tuesday,March,10,1
+12:07:21,12:12:20,F,Check Input1 SC,Tuesday,March,12,1
+13:56:31,13:57:46,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Tuesday,March,13,1
+13:58:21,14:00:13,F,Check Zone1 Response 2,Tuesday,March,13,1
+14:00:48,14:02:32,F,Check Zone1 Response 2,Tuesday,March,14,1
+14:17:44,14:19:24,F,Voltage Check +32v,Tuesday,March,14,0
+14:20:25,14:22:07,F,Voltage Check +32v,Tuesday,March,14,0
+14:23:04,14:26:14,F,Backlight Test Failed,Tuesday,March,14,1
+14:35:43,14:37:02,F,Voltage Check +32v,Tuesday,March,14,0
+15:34:41,15:38:16,F,Start Key Tests,Tuesday,March,15,0
+15:39:09,15:43:47,F,Measure NC Terminal FIRE,Tuesday,March,15,0
+16:18:15,16:21:29,F,Start Key Tests,Tuesday,March,16,0

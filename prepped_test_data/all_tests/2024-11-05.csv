@@ -1,0 +1,6 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+10:01:03,10:08:38,F,Battery Test Failed,Tuesday,November,10,1
+11:29:46,11:37:37,F,Measure Aux On: If Fail unit not programmed,Tuesday,November,11,1
+13:07:39,13:09:36,F,Start Key Tests,Tuesday,November,13,0
+14:07:29,14:10:34,F,Set Buzzer Off,Tuesday,November,14,1
+15:00:02,15:01:03,F,RS485 COMMS CHECK,Tuesday,November,15,1

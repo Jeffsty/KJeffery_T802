@@ -1,0 +1,11 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:29:49,08:31:43,F,Reset LCD Test Mode,Tuesday,January,08,1
+08:50:39,08:55:12,F,Measure Aux On: If Fail unit not programmed,Tuesday,January,08,0
+09:08:27,09:10:52,F,Buzzer Test Failed,Tuesday,January,09,1
+13:09:22,13:15:29,F,Check Input1 SC,Tuesday,January,13,1
+13:52:15,13:56:07,F,Reset LCD Test Mode,Tuesday,January,13,1
+14:03:14,14:13:24,F,Reset LCD Test Mode,Tuesday,January,14,1
+14:37:29,14:41:28,F,Reset LCD Test Mode,Tuesday,January,14,1
+14:56:33,15:01:33,F,Reset LCD Test Mode,Tuesday,January,14,1
+16:21:23,16:26:48,F,Silence Alarms Key,Tuesday,January,16,1
+16:33:32,16:36:41,F,Reset LCD Test Mode,Tuesday,January,16,1

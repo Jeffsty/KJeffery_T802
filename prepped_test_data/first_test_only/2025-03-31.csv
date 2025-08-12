@@ -1,0 +1,10 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:35:50,08:40:01,F,Check Continuity Z5 To Z8,Monday,March,08,0
+10:48:25,10:52:24,F,Check Input1 SC,Monday,March,10,1
+11:33:38,11:35:30,F,Reset LCD Test Mode,Monday,March,11,1
+11:56:18,12:00:38,F,Reset LCD Test Mode,Monday,March,11,1
+14:08:27,14:15:50,F,Measure Aux On: If Fail unit not programmed,Monday,March,14,1
+14:55:38,14:56:07,F, Power On,Monday,March,14,0
+16:06:22,16:09:59,F,Reset LCD Test Mode,Monday,March,16,1
+16:14:02,16:14:30,F,Load Shipping Code,Monday,March,16,1
+16:28:45,16:29:12,F,Load Shipping Code,Monday,March,16,1

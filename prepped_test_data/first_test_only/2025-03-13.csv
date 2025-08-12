@@ -1,0 +1,9 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:25:37,08:29:02,F,Voltage Check +3V3,Thursday,March,08,0
+08:34:59,08:40:37,F,Measure NC Terminal FIRE,Thursday,March,08,1
+09:25:46,09:27:50,F,Voltage Check +3V3,Thursday,March,09,1
+12:08:18,12:11:34,F,Start Key Tests,Thursday,March,12,1
+12:21:06,12:24:23,F,Start Key Tests,Thursday,March,12,0
+14:14:16,14:19:13,F,Check Input1 SC,Thursday,March,14,1
+14:55:08,15:00:06,F,Check Input1 SC,Thursday,March,14,1
+16:35:14,16:40:17,F,Check Input2 SC,Thursday,March,16,1

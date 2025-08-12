@@ -1,0 +1,17 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:35:00,08:36:12,F,Start Key Tests,Thursday,April,08,0
+08:36:55,08:38:17,F,Start Key Tests,Thursday,April,08,0
+08:48:04,08:51:49,F,Reset LCD Test Mode,Thursday,April,08,1
+09:01:34,09:02:46,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Thursday,April,09,1
+09:10:09,09:13:17,F,Start Key Tests,Thursday,April,09,0
+09:30:56,09:34:46,F,Measure +3V3 EXP,Thursday,April,09,0
+11:08:12,11:10:52,F,Reset LCD Test Mode,Thursday,April,11,1
+11:50:43,11:53:27,F,Reset LCD Test Mode,Thursday,April,11,1
+12:09:07,12:11:44,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Thursday,April,12,1
+12:12:24,12:23:51,F,Check Input1 SC,Thursday,April,12,1
+12:25:31,12:26:35,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Thursday,April,12,1
+13:28:15,13:30:49,F,Reset LCD Test Mode,Thursday,April,13,1
+13:47:57,13:51:23,F,Reset LCD Test Mode,Thursday,April,13,1
+14:43:08,14:46:44,F,Silence Alarms Key,Thursday,April,14,1
+16:19:15,16:25:25,F,Check Output Test Response 2,Thursday,April,16,0
+16:26:16,16:30:20,F,Start Key Tests,Thursday,April,16,0

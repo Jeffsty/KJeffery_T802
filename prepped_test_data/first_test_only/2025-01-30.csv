@@ -1,0 +1,4 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:39:29,08:41:35,F,Backlight Test Failed,Thursday,January,08,1
+11:07:09,11:09:07,F,Start Key Tests,Thursday,January,11,1
+16:00:06,16:04:48,F,Check Input1 SC,Thursday,January,16,1

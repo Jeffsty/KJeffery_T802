@@ -1,0 +1,6 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+09:36:16,09:40:06,F,Check Input1 SC,Friday,February,09,1
+10:42:18,10:45:29,F,Check Key Switch ON,Friday,February,10,1
+12:23:39,12:25:07,F,Start Key Tests,Friday,February,12,0
+12:48:15,12:54:03,F,Check Input1 SC,Friday,February,12,1
+13:22:46,13:24:40,F,Start Key Tests,Friday,February,13,1

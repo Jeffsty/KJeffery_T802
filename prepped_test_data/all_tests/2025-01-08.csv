@@ -1,0 +1,4 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+09:48:35,09:53:56,F,Check Input1 SC,Wednesday,January,09,1
+10:51:56,10:57:08,F,Check Input1 SC,Wednesday,January,10,1
+16:07:15,16:12:44,F,Reset LCD Test Mode,Wednesday,January,16,1

@@ -1,0 +1,9 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+10:38:55,10:40:04,F,RS485 COMMS CHECK,Wednesday,November,10,0
+11:12:55,11:15:55,F,Silence Alarms Key,Wednesday,November,11,1
+12:06:25,12:11:04,F,Check Key Switch ON,Wednesday,November,12,1
+12:18:50,12:23:02,F,Measure Zone3 Voltage,Wednesday,November,12,1
+12:36:33,12:41:42,F,Check Zone3 Response 2,Wednesday,November,12,1
+12:48:24,12:51:34,F,Check Zone3 Response 2,Wednesday,November,12,1
+12:54:18,12:59:17,F,Check Zone3 Response 2,Wednesday,November,12,1
+15:22:17,15:28:34,F,Check Key Switch ON,Wednesday,November,15,1

@@ -1,0 +1,11 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:03:31,08:03:54,F, Power On,Thursday,February,08,1
+08:05:47,08:06:10,F, Power On,Thursday,February,08,1
+08:50:32,08:55:19,F,Check Write Enable Switch Off,Thursday,February,08,1
+09:20:24,09:26:21,F, Power On,Thursday,February,09,1
+09:33:28,09:33:36,F,Resistance Measure +3V3,Thursday,February,09,1
+09:44:09,09:46:55,F,Check Continuity Z5 To Z8,Thursday,February,09,1
+10:31:28,10:35:26,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Thursday,February,10,1
+11:24:24,11:26:43,F,Silence Alarms Key,Thursday,February,11,1
+13:37:51,13:40:57,F,Check Continuity Z5 To Z8,Thursday,February,13,1
+15:10:42,15:14:37,F,Check Input1 SC,Thursday,February,15,1

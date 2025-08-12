@@ -1,0 +1,8 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:45:34,08:48:33,F,Voltage Check +3V3,Tuesday,January,08,1
+09:20:33,09:21:33,F,RS485 COMMS CHECK,Tuesday,January,09,1
+09:33:58,09:35:18,F,RS485 COMMS CHECK,Tuesday,January,09,1
+11:44:11,11:47:37,F,Voltage Check +3V3,Tuesday,January,11,0
+12:27:31,12:32:39,F,Set Buzzer Off,Tuesday,January,12,1
+14:45:39,14:51:54,F,Measure NC Terminal FIRE,Tuesday,January,14,1
+15:27:12,15:30:35,F,Reset LCD Test Mode,Tuesday,January,15,1

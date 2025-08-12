@@ -1,0 +1,4 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:31:09,08:33:35,F,Silence Alarms Key,Thursday,April,08,1
+13:43:57,13:49:37,F,Measure Aux On: If Fail unit not programmed,Thursday,April,13,0
+14:59:17,15:04:56,F,Reset LCD Test Mode,Thursday,April,14,1

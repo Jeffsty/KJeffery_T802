@@ -1,0 +1,11 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:09:28,08:13:43,F,Check Key Switch ON,Monday,February,08,1
+10:15:24,10:16:31,F,Start Key Tests,Monday,February,10,0
+10:17:26,10:18:13,F,Start Key Tests,Monday,February,10,0
+12:12:25,12:18:20,F,Check Input1 SC,Monday,February,12,1
+14:01:47,14:06:27,F,Check Key Switch ON,Monday,February,14,1
+14:56:41,15:03:10,F,Check Input1 SC,Monday,February,14,1
+15:41:19,15:44:44,F,Set Buzzer Off,Monday,February,15,0
+15:45:15,15:47:43,F,Check Expansion Inputs RX5 HI,Monday,February,15,0
+16:10:10,16:12:35,F,Check Expansion Inputs RX5 HI,Monday,February,16,0
+16:24:21,16:26:56,F,Check Expansion Inputs RX5 HI,Monday,February,16,0

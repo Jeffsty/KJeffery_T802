@@ -1,0 +1,3 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+09:30:31,09:34:00,F,Check Continuity Z5 To Z8,Friday,March,09,1
+11:08:36,11:11:34,F,Start Key Tests,Friday,March,11,0

@@ -1,0 +1,5 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+09:18:00,09:18:57,F,RS485 COMMS CHECK,Monday,November,09,1
+12:10:48,12:11:47,F,RS485 COMMS CHECK,Monday,November,12,0
+12:26:57,12:28:49,F,Start Key Tests,Monday,November,12,1
+13:00:50,13:03:20,F,Start Earth Voltage Test,Monday,November,13,1

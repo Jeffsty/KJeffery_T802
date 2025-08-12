@@ -1,0 +1,9 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:01:52,08:06:02,F,Check Key Switch ON,Wednesday,November,08,1
+09:58:17,10:00:43,F,LED Test Failed,Wednesday,November,09,0
+10:05:40,10:07:42,F,LED Test Failed,Wednesday,November,10,0
+12:08:00,12:09:31,F,Backlight Test Failed,Wednesday,November,12,1
+14:00:30,14:04:37,F,Silence Alarms Key,Wednesday,November,14,1
+14:35:44,14:42:03,F, Power On,Wednesday,November,14,1
+15:17:56,15:21:17,F,Check Expansion Inputs RX6 LO,Wednesday,November,15,1
+15:58:07,15:58:50,F,Start Key Tests,Wednesday,November,15,0

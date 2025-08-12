@@ -1,0 +1,14 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:11:44,08:16:02,F,Reset LCD Test Mode,Wednesday,February,08,1
+08:16:06,08:21:04,F,Check Input1 SC,Wednesday,February,08,1
+09:13:54,09:19:17,F,Check Input1 SC,Wednesday,February,09,1
+10:11:30,10:12:21,F,Start Key Tests,Wednesday,February,10,0
+10:12:48,10:13:47,F,Start Key Tests,Wednesday,February,10,0
+10:40:20,10:41:19,F,Start Key Tests,Wednesday,February,10,0
+11:02:05,11:03:12,F,Start Key Tests,Wednesday,February,11,0
+12:46:19,12:48:05,F,Silence Alarms Key,Wednesday,February,12,1
+13:40:29,13:44:13,F,Check Key Switch ON,Wednesday,February,13,1
+14:19:22,14:22:52,F,Silence Alarms Key,Wednesday,February,14,1
+14:30:24,14:34:24,F,Start Earth Voltage Test,Wednesday,February,14,1
+15:06:23,15:08:32,F,Down Key,Wednesday,February,15,1
+15:24:59,15:27:40,F,Silence Alarms Key,Wednesday,February,15,1

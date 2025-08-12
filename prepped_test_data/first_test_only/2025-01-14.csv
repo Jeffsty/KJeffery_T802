@@ -1,0 +1,11 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:49:30,08:53:50,F,Check Key Switch ON,Tuesday,January,08,1
+09:17:57,09:18:56,F,RS485 COMMS CHECK,Tuesday,January,09,0
+09:37:42,09:38:38,F,RS485 COMMS CHECK,Tuesday,January,09,0
+09:49:47,09:52:12,F,Reset LCD Test Mode,Tuesday,January,09,1
+10:12:53,10:14:34,F,Enter Key,Tuesday,January,10,1
+10:38:23,10:42:38,F,Check Input1 SC,Tuesday,January,10,1
+10:51:07,10:52:46,F,Silence Alarms Key,Tuesday,January,10,1
+11:40:08,11:43:03,F,Silence Alarms Key,Tuesday,January,11,1
+14:15:33,14:18:15,F,Measure +3V3 EXP,Tuesday,January,14,0
+14:32:22,14:35:45,F,Silence Alarms Key,Tuesday,January,14,1

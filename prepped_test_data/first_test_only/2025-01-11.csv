@@ -1,0 +1,10 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:15:56,08:20:45,F,Measure NC Terminal FAULT,Saturday,January,08,1
+09:05:52,09:07:04,F,RS485 COMMS CHECK,Saturday,January,09,1
+09:14:12,09:16:25,F,Start Key Tests,Saturday,January,09,0
+09:21:40,09:22:32,F,Backlight Test Failed,Saturday,January,09,0
+09:33:26,09:34:44,F,Start Key Tests,Saturday,January,09,1
+09:41:44,09:43:39,F,Start Key Tests,Saturday,January,09,0
+09:54:42,09:55:52,F,Start Key Tests,Saturday,January,09,1
+10:36:05,10:41:53,F,Measure Aux On: If Fail unit not programmed,Saturday,January,10,1
+11:40:42,11:45:41,F,Start Key Tests,Saturday,January,11,0

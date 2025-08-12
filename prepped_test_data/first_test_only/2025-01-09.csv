@@ -1,0 +1,9 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:03:37,08:04:13,F, Power On,Thursday,January,08,1
+08:15:02,08:17:22,F,Start Key Tests,Thursday,January,08,0
+09:28:30,09:32:37,F,Buzzer Test Failed,Thursday,January,09,1
+09:55:34,09:57:07,F,Voltage Check +3V3,Thursday,January,09,1
+10:16:00,10:16:54,F,RS485 COMMS CHECK,Thursday,January,10,1
+10:53:14,10:57:46,F,Measure TXCHSEL5,Thursday,January,10,1
+11:59:10,12:05:28,F,Check Input1 SC,Thursday,January,11,1
+13:47:40,13:51:36,F,Check Input1 SC,Thursday,January,13,1

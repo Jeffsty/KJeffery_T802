@@ -1,0 +1,9 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+10:32:28,10:37:37,F,Check Key Switch ON,Thursday,November,10,1
+10:45:17,10:50:12,F,Check Input1 SC,Thursday,November,10,1
+11:07:08,11:10:12,F,9 Key,Thursday,November,11,0
+11:10:30,11:13:02,F,Check Continuity Z5 To Z8,Thursday,November,11,0
+11:21:17,11:22:40,F,Voltage Check +3V3,Thursday,November,11,1
+11:23:19,11:23:25,F,Resistance Measure +3V3,Thursday,November,11,1
+15:07:16,15:11:33,F,Check Write Enable Switch Off,Thursday,November,15,1
+16:22:08,16:23:25,F,Backlight Test Failed,Thursday,November,16,1

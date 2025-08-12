@@ -1,0 +1,3 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+11:16:14,11:18:53,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Wednesday,February,11,1
+15:15:56,15:21:53,F,Check Input1 SC,Wednesday,February,15,1

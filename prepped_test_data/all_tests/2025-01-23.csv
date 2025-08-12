@@ -1,0 +1,16 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:04:00,08:05:12,F,Start Key Tests,Thursday,January,08,0
+08:05:21,08:06:53,F,Start Key Tests,Thursday,January,08,0
+08:07:57,08:08:43,F,Start Key Tests,Thursday,January,08,0
+09:48:30,09:51:21,F,Reset LCD Test Mode,Thursday,January,09,1
+12:05:48,12:08:01,F,Silence Alarms Key,Thursday,January,12,1
+13:36:52,13:39:22,F,Voltage Check +3V3,Thursday,January,13,1
+13:39:26,13:39:32,F,Resistance Measure +3V3,Thursday,January,13,1
+14:01:27,14:04:33,F,Backlight Test Failed,Thursday,January,14,1
+14:53:37,14:54:40,F,RS485 COMMS CHECK,Thursday,January,14,1
+14:55:35,14:58:00,F,Reset LCD Test Mode,Thursday,January,14,1
+15:57:04,15:58:22,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Thursday,January,15,1
+15:58:30,15:59:49,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Thursday,January,15,1
+16:00:11,16:01:36,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Thursday,January,16,1
+16:01:57,16:03:33,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Thursday,January,16,1
+16:18:53,16:24:49,F,Set LED Off,Thursday,January,16,1

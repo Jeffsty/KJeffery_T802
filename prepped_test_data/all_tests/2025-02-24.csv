@@ -1,0 +1,12 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:03:06,08:07:11,F,Check Input1 SC,Monday,February,08,1
+09:36:31,09:41:06,F,Check Output Test Response 1,Monday,February,09,0
+09:42:19,09:46:55,F,Check Output Test Response 1,Monday,February,09,0
+10:37:40,10:38:37,F,RS485 COMMS CHECK,Monday,February,10,1
+10:45:52,10:47:32,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Monday,February,10,1
+11:09:21,11:14:07,F,Check Input1 SC,Monday,February,11,1
+13:30:32,13:34:50,F,Check Key Switch ON,Monday,February,13,1
+14:11:43,14:14:29,F,Reset LCD Test Mode,Monday,February,14,1
+14:43:33,14:45:34,F,Backlight Test Failed,Monday,February,14,1
+16:24:57,16:34:47,F,Battery Test Failed,Monday,February,16,0
+16:34:51,16:38:55,F,Battery Test Failed,Monday,February,16,0

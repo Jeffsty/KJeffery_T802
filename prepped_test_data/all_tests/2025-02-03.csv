@@ -1,0 +1,12 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:03:34,08:04:34,F,RS485 COMMS CHECK,Monday,February,08,0
+08:05:32,08:06:28,F,RS485 COMMS CHECK,Monday,February,08,0
+08:15:26,08:17:24,F,Backlight Test Failed,Monday,February,08,1
+11:10:01,11:10:09,F,Resistance Measure +3V3,Monday,February,11,0
+11:11:18,11:11:29,F,Resistance Measure +3V3,Monday,February,11,0
+11:53:37,11:54:59,F,Backlight Test Failed,Monday,February,11,1
+12:01:50,12:01:58,F,Resistance Measure +3V3,Monday,February,12,0
+12:03:33,12:03:42,F,Resistance Measure +3V3,Monday,February,12,0
+12:18:59,12:21:12,F,Voltage Check +3V3,Monday,February,12,1
+13:16:36,13:20:12,F,Check Continuity Z5 To Z8,Monday,February,13,1
+13:28:43,13:31:15,F,Silence Alarms Key,Monday,February,13,1

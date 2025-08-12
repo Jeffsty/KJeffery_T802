@@ -1,0 +1,8 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:09:06,08:12:24,F,Measure TXCHSEL7,Thursday,November,08,1
+08:49:57,08:55:25,F,Check Input1 SC,Thursday,November,08,1
+09:12:06,09:17:39,F,Check Input1 SC,Thursday,November,09,1
+10:14:47,10:19:01,F,Buzzer Test Failed,Thursday,November,10,1
+13:31:06,13:34:01,F,Voltage Check +3V3,Thursday,November,13,1
+16:02:11,16:07:11,F,Check Input2 SC,Thursday,November,16,1
+16:31:02,16:34:16,F,Silence Alarms Key,Thursday,November,16,1

@@ -1,0 +1,6 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:04:41,08:05:43,F,RS485 COMMS CHECK,Thursday,February,08,0
+08:06:16,08:07:11,F,RS485 COMMS CHECK,Thursday,February,08,0
+12:20:37,12:24:00,F,Voltage Check +3V3,Thursday,February,12,1
+12:24:04,12:27:15,F,Voltage Check +3V3,Thursday,February,12,1
+15:16:48,15:22:05,F,Check Input1 SC,Thursday,February,15,1

@@ -1,0 +1,5 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+11:22:03,11:24:11,F,Buzzer Test Failed,Tuesday,February,11,1
+11:41:53,11:45:35,F,Check Input1 SC,Tuesday,February,11,1
+14:18:32,14:21:14,F,Measure RXREFV,Tuesday,February,14,1
+15:20:46,15:24:36,F,Backlight Test Failed,Tuesday,February,15,1

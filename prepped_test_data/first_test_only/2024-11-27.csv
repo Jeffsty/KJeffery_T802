@@ -1,0 +1,8 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:13:56,08:14:04,F,Resistance Measure +3V3,Wednesday,November,08,0
+08:25:00,08:25:32,F,Load Shipping Code,Wednesday,November,08,0
+09:11:04,09:15:18,F,Check Input1 SC,Wednesday,November,09,1
+11:07:42,11:12:25,F,Voltage Check +3V3,Wednesday,November,11,1
+12:26:48,12:28:53,F,Reset LCD Test Mode,Wednesday,November,12,1
+12:58:01,13:02:24,F,LED Test Failed,Wednesday,November,12,0
+13:03:28,13:04:26,F,RS485 COMMS CHECK,Wednesday,November,13,0

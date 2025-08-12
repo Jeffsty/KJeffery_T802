@@ -1,0 +1,4 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+11:00:55,11:04:34,F,Reset LCD Test Mode,Monday,October,11,1
+11:53:15,11:57:32,F,Measure NO Terminal FIRE,Monday,October,11,1
+14:38:31,14:42:14,F,Start Key Tests,Monday,October,14,0

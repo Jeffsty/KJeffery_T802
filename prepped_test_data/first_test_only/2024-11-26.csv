@@ -1,0 +1,8 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:13:27,08:19:41,F,Check Input1 SC,Tuesday,November,08,1
+09:39:59,09:44:34,F,End LED Test,Tuesday,November,09,1
+10:20:44,10:22:32,F,Backlight Test Failed,Tuesday,November,10,1
+11:09:24,11:17:44,F,Check Input1 SC,Tuesday,November,11,1
+14:53:00,14:54:25,F,Start Key Tests,Tuesday,November,14,1
+15:49:02,15:50:02,F,RS485 COMMS CHECK,Tuesday,November,15,1
+16:28:44,16:30:49,F,Start Key Tests,Tuesday,November,16,0

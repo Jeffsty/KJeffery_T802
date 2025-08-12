@@ -1,0 +1,4 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:10:26,08:10:41,F,Load Shipping Code,Friday,October,08,1
+09:22:51,09:28:14,F,Reset LCD Test Mode,Friday,October,09,1
+11:25:13,11:28:08,F,Set Buzzer Off,Friday,October,11,1

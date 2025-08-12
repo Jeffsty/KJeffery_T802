@@ -1,0 +1,11 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:05:05,08:06:08,F,RS485 COMMS CHECK,Tuesday,December,08,0
+08:26:42,08:29:26,F,Measure Zone1 Voltage,Tuesday,December,08,1
+08:48:12,08:52:18,F,Measure NC Terminal FIRE,Tuesday,December,08,1
+10:56:27,11:01:43,F,Check Output Test Response 2,Tuesday,December,10,0
+11:23:19,11:25:19,F,Silence Alarms Key,Tuesday,December,11,0
+11:51:09,11:54:11,F,Silence Alarms Key,Tuesday,December,11,1
+12:19:09,12:24:25,F,Check Key Switch ON,Tuesday,December,12,0
+13:20:08,13:23:15,F,Measure NC Terminal FIRE,Tuesday,December,13,1
+15:47:37,15:47:58,F,Resistance Measure +3V3,Tuesday,December,15,0
+16:21:30,16:24:24,F,LCD Test Failed,Tuesday,December,16,1

@@ -1,0 +1,5 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+11:14:34,11:17:42,F,Check Write Enable Switch ON,Tuesday,October,11,1
+11:26:23,11:29:34,F,Check Key Switch ON,Tuesday,October,11,1
+14:06:17,14:13:14,F,Check Input2 SC,Tuesday,October,14,1
+15:28:37,15:32:28,F,Backlight Test Failed,Tuesday,October,15,1

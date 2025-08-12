@@ -1,0 +1,5 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:53:49,08:55:14,F,RS485 COMMS CHECK,Friday,January,08,1
+09:34:30,09:36:09,F,Silence Alarms Key,Friday,January,09,0
+09:42:58,09:44:17,F,Silence Alarms Key,Friday,January,09,0
+12:39:40,12:44:52,F,Check Input1 SC,Friday,January,12,1

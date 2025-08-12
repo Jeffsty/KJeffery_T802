@@ -1,0 +1,8 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:11:46,08:13:02,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Tuesday,February,08,1
+09:57:35,09:59:15,F,Backlight Test Failed,Tuesday,February,09,0
+12:13:51,12:16:05,F,Silence Alarms Key,Tuesday,February,12,0
+12:51:42,12:52:39,F,RS485 COMMS CHECK,Tuesday,February,12,0
+13:48:11,13:51:17,F,Check Key Switch ON,Tuesday,February,13,1
+14:22:31,14:24:50,F,Reset LCD Test Mode,Tuesday,February,14,1
+16:17:17,16:21:09,F,Check Key Switch ON,Tuesday,February,16,1

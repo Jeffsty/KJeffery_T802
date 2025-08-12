@@ -1,0 +1,7 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:12:39,08:17:03,F,Check Continuity Z5 To Z8,Wednesday,March,08,0
+08:18:06,08:21:04,F,Check Continuity Z5 To Z8,Wednesday,March,08,0
+14:37:51,14:44:32,F,Check Input1 SC,Wednesday,March,14,1
+14:58:19,15:03:46,F,Check Input1 SC,Wednesday,March,14,1
+16:08:29,16:10:17,F,RS485 COMMS CHECK,Wednesday,March,16,0
+16:10:24,16:11:16,F,RS485 COMMS CHECK,Wednesday,March,16,0

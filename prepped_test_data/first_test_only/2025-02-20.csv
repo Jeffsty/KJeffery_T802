@@ -1,0 +1,10 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+09:03:55,09:06:11,F,Start Key Tests,Thursday,February,09,0
+09:34:07,09:38:17,F,Check Key Switch ON,Thursday,February,09,0
+09:50:30,09:55:52,F,Check Input1 SC,Thursday,February,09,1
+11:24:01,11:28:43,F,Check Input1 SC,Thursday,February,11,1
+11:50:52,11:54:41,F,Check Key Switch ON,Thursday,February,11,1
+12:39:31,12:39:40,F,Resistance Measure +3V3,Thursday,February,12,0
+12:59:47,13:07:20,F,Check Input1 SC,Thursday,February,12,1
+13:51:48,13:55:48,F,Check Key Switch ON,Thursday,February,13,1
+14:42:18,14:44:02,F,Enter Key,Thursday,February,14,1

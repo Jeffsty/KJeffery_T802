@@ -1,0 +1,8 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:26:00,08:28:13,F,Reset LCD Test Mode,Wednesday,April,08,1
+09:02:17,09:04:44,F,Check Continuity Z5 To Z8,Wednesday,April,09,1
+11:18:40,11:21:48,F,Backlight Test Failed,Wednesday,April,11,1
+11:54:37,11:57:17,F,Silence Alarms Key,Wednesday,April,11,1
+12:06:39,12:09:37,F,Check Continuity Z5 To Z8,Wednesday,April,12,1
+14:19:48,14:23:58,F,Reset LCD Test Mode,Wednesday,April,14,1
+15:15:05,15:20:02,F,Check Input1 SC,Wednesday,April,15,1

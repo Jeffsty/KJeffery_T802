@@ -1,0 +1,3 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+09:03:35,09:06:38,F,Measure +3V3 EXP,Friday,November,09,0
+10:45:34,10:46:30,F,RS485 COMMS CHECK,Friday,November,10,0

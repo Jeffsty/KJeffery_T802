@@ -1,0 +1,7 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+10:03:38,10:04:34,F,RS485 COMMS CHECK,Thursday,March,10,0
+10:05:19,10:06:10,F,RS485 COMMS CHECK,Thursday,March,10,0
+10:12:48,10:17:35,F,Check Input1 SC,Thursday,March,10,0
+11:27:42,11:32:56,F,Check Input1 SC,Thursday,March,11,1
+13:18:18,13:20:59,F,LCD Test Failed,Thursday,March,13,0
+13:38:08,13:43:22,F,Check Input1 SC,Thursday,March,13,1

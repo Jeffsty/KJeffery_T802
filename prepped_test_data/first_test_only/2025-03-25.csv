@@ -1,0 +1,6 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+12:07:21,12:12:20,F,Check Input1 SC,Tuesday,March,12,1
+14:17:44,14:19:24,F,Voltage Check +32v,Tuesday,March,14,0
+14:23:04,14:26:14,F,Backlight Test Failed,Tuesday,March,14,1
+15:34:41,15:38:16,F,Start Key Tests,Tuesday,March,15,0
+15:39:09,15:43:47,F,Measure NC Terminal FIRE,Tuesday,March,15,0

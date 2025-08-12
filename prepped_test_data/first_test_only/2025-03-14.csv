@@ -1,0 +1,5 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:19:42,08:25:51,F,Check Input1 SC,Friday,March,08,1
+08:36:16,08:42:35,F,Measure Aux On: If Fail unit not programmed,Friday,March,08,0
+09:09:32,09:15:23,F,Start Key Tests,Friday,March,09,0
+09:38:27,09:45:15,F,Check Input1 SC,Friday,March,09,1

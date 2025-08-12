@@ -1,0 +1,7 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:10:10,08:11:40,F,Silence Alarms Key,Tuesday,December,08,1
+10:48:33,10:55:53,F,Check Input1 SC,Tuesday,December,10,1
+14:35:38,14:38:14,F,Buzzer Test Failed,Tuesday,December,14,0
+14:46:41,14:48:21,F,LCD Test Failed,Tuesday,December,14,0
+15:11:59,15:18:12,F,Check Key Switch ON,Tuesday,December,15,1
+16:28:14,16:29:56,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Tuesday,December,16,1

@@ -1,0 +1,7 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+09:21:13,09:22:14,F,RS485 COMMS CHECK,Thursday,November,09,1
+10:39:40,10:40:01,F,Resistance Measure +3V3,Thursday,November,10,0
+11:41:47,11:47:01,F,Check Key Switch ON,Thursday,November,11,1
+11:55:24,11:58:51,F,Silence Alarms Key,Thursday,November,11,1
+12:52:02,13:01:04,F,Reset LCD Test Mode,Thursday,November,12,1
+15:36:48,15:40:30,F,Reset LCD Test Mode,Thursday,November,15,1

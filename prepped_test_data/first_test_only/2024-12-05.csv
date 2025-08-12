@@ -1,0 +1,6 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+10:09:03,10:09:29,F, Power On,Thursday,December,10,1
+10:57:29,10:58:27,F,RS485 COMMS CHECK,Thursday,December,10,1
+13:13:38,13:14:52,F,RS485 COMMS CHECK,Thursday,December,13,1
+15:57:23,16:00:21,F,Check Expansion Inputs RX8 HI,Thursday,December,15,0
+16:08:50,16:11:09,F,Sound Alarms Key,Thursday,December,16,1

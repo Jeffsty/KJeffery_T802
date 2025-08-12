@@ -1,0 +1,8 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+09:10:01,09:11:08,F,RS485 COMMS CHECK,Monday,December,09,1
+09:32:48,09:37:28,F,Check Input1 SC,Monday,December,09,1
+12:10:10,12:13:59,F,Check Key Switch ON,Monday,December,12,1
+13:07:21,13:13:17,F,Measure Aux On: If Fail unit not programmed,Monday,December,13,1
+13:28:35,13:33:51,F,Check Input1 SC,Monday,December,13,1
+14:20:28,14:25:46,F,Check Write Enable Switch Off,Monday,December,14,1
+15:08:42,15:12:38,F,Check Key Switch ON,Monday,December,15,1

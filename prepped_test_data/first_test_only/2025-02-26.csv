@@ -1,0 +1,10 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:35:22,08:36:30,F,RS485 COMMS CHECK,Wednesday,February,08,1
+09:07:09,09:21:38,F,Check Input1 SC,Wednesday,February,09,1
+11:10:19,11:16:36,F,Check Write Enable Switch Off,Wednesday,February,11,1
+12:07:58,12:13:54,F,Reset LCD Test Mode,Wednesday,February,12,1
+13:41:11,13:51:16,F,Check Key Switch ON,Wednesday,February,13,1
+13:58:44,14:05:50,F,Measure Zone1 Voltage,Wednesday,February,13,1
+14:33:28,14:40:33,F,Buzzer Test Failed,Wednesday,February,14,1
+14:56:36,15:01:59,F,Check Input1 SC,Wednesday,February,14,1
+15:47:08,15:48:20,F,Start Key Tests,Wednesday,February,15,1

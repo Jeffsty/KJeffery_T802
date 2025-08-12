@@ -1,0 +1,11 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:19:14,08:25:07,F,Reset LCD Test Mode,Tuesday,March,08,1
+08:32:31,08:36:03,F,Voltage Check +3V3,Tuesday,March,08,0
+09:11:20,09:17:40,F,Measure Aux On: If Fail unit not programmed,Tuesday,March,09,0
+11:49:55,11:52:17,F,Start Key Tests,Tuesday,March,11,0
+11:56:23,11:58:16,F,Start Key Tests,Tuesday,March,11,1
+12:19:31,12:22:44,F,Start Key Tests,Tuesday,March,12,0
+12:32:59,12:34:07,F,Start Key Tests,Tuesday,March,12,1
+13:19:12,13:20:31,F,Start Key Tests,Tuesday,March,13,1
+16:25:25,16:28:01,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Tuesday,March,16,1
+16:43:08,16:46:23,F,1 Key,Tuesday,March,16,1

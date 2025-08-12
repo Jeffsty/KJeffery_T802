@@ -1,0 +1,10 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+09:19:28,09:25:19,F,Check Input1 SC,Tuesday,October,09,1
+09:32:18,09:34:54,F,Right Key,Tuesday,October,09,0
+11:03:35,11:08:00,F,LED Test Failed,Tuesday,October,11,0
+11:10:47,11:13:47,F,LED Test Failed,Tuesday,October,11,1
+11:13:56,11:16:54,F,LED Test Failed,Tuesday,October,11,1
+11:16:58,11:21:20,F,LED Test Failed,Tuesday,October,11,1
+13:59:19,14:03:26,F,Backlight Test Failed,Tuesday,October,13,1
+14:56:53,14:59:04,F,Backlight Test Failed,Tuesday,October,14,0
+15:07:54,15:11:41,F,Backlight Test Failed,Tuesday,October,15,0

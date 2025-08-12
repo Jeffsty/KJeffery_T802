@@ -1,0 +1,8 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:34:23,08:35:20,F,RS485 COMMS CHECK,Monday,November,08,1
+08:36:38,08:37:30,F,RS485 COMMS CHECK,Monday,November,08,1
+09:40:22,09:40:52,F,Load Shipping Code,Monday,November,09,1
+09:43:35,09:43:58,F,Load Shipping Code,Monday,November,09,1
+10:00:06,10:00:33,F,Load Shipping Code,Monday,November,10,1
+16:37:13,16:39:49,F,Check Continuity Z5 To Z8,Monday,November,16,0
+16:40:24,16:43:14,F,Check Continuity Z5 To Z8,Monday,November,16,0

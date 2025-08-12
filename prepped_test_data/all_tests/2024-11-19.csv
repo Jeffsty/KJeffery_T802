@@ -1,0 +1,7 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:23:11,08:27:07,F,Check Key Switch ON,Tuesday,November,08,1
+09:17:44,09:21:07,F,Backlight Test Failed,Tuesday,November,09,1
+12:05:31,12:11:23,F,Check Input1 SC,Tuesday,November,12,1
+12:54:21,12:56:55,F,Backlight Test Failed,Tuesday,November,12,1
+15:15:10,15:16:53,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Tuesday,November,15,1
+16:29:50,16:35:45,F,Check Input1 SC,Tuesday,November,16,1

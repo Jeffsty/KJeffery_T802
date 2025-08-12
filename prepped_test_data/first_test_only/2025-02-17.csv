@@ -1,0 +1,10 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:17:38,08:19:55,F,Reset System Key,Monday,February,08,1
+10:01:33,10:06:10,F,Check Input1 SC,Monday,February,10,1
+11:50:24,11:51:39,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Monday,February,11,1
+11:59:18,12:04:44,F,Check Key Switch ON,Monday,February,11,1
+12:25:06,12:29:36,F,Check Input1 SC,Monday,February,12,1
+13:30:37,13:31:55,F,Backlight Test Failed,Monday,February,13,0
+14:41:39,14:50:07,F,Measure Aux On: If Fail unit not programmed,Monday,February,14,0
+15:08:27,15:10:40,F,Silence Alarms Key,Monday,February,15,1
+15:39:44,15:43:53,F,Check Key Switch ON,Monday,February,15,1

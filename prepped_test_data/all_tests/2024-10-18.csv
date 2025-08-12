@@ -1,0 +1,4 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:30:11,08:32:17,F,Backlight Test Failed,Friday,October,08,1
+10:29:19,10:32:48,F,Reset LCD Test Mode,Friday,October,10,1
+12:21:54,12:25:32,F,Check Key Switch ON,Friday,October,12,1

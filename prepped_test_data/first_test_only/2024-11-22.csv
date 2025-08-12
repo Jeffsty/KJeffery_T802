@@ -1,0 +1,4 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+09:09:00,09:09:57,F,RS485 COMMS CHECK,Friday,November,09,0
+09:30:16,09:34:35,F,Check Mon Input SC,Friday,November,09,1
+12:58:04,13:02:21,F,Check Input1 SC,Friday,November,12,1

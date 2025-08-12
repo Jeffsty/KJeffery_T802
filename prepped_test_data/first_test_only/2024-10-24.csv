@@ -1,0 +1,13 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+10:16:49,10:25:20,F,Start Key Tests,Thursday,October,10,1
+11:27:02,11:30:34,F,Check Key Switch ON,Thursday,October,11,1
+11:51:48,11:54:52,F,Silence Alarms Key,Thursday,October,11,1
+13:11:15,13:13:50,F,RS485 COMMS CHECK,Thursday,October,13,0
+13:18:38,13:20:25,F,Buzzer Test Failed,Thursday,October,13,0
+13:40:23,13:43:33,F,Start Key Tests,Thursday,October,13,0
+14:51:17,14:53:09,F,Right Key,Thursday,October,14,0
+14:59:23,15:04:25,F,LED Test Failed,Thursday,October,14,0
+15:05:12,15:07:44,F,LED Test Failed,Thursday,October,15,0
+15:08:00,15:09:51,F,LED Test Failed,Thursday,October,15,0
+15:15:02,15:16:59,F,LED Test Failed,Thursday,October,15,0
+16:08:42,16:13:09,F,LED Test Failed,Thursday,October,16,1

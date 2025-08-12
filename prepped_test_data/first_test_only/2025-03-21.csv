@@ -1,0 +1,8 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:36:57,08:40:14,F,Check Expansion Inputs RX7 HI,Friday,March,08,1
+10:47:25,10:48:21,F,RS485 COMMS CHECK,Friday,March,10,0
+11:12:46,11:15:05,F,Start Key Tests,Friday,March,11,0
+11:17:51,11:23:38,F,Check Input1 SC,Friday,March,11,1
+11:49:15,11:52:20,F,Measure Z8RXRESET,Friday,March,11,1
+12:31:21,12:31:31,F,Resistance Measure +3V3,Friday,March,12,1
+12:50:50,12:56:29,F,Check Input1 SC,Friday,March,12,1

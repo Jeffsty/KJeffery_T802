@@ -1,0 +1,8 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:53:24,08:56:02,F,Measure Z8RXRESET,Thursday,November,08,1
+09:11:12,09:12:10,F,RS485 COMMS CHECK,Thursday,November,09,0
+12:26:50,12:27:15,F,Load Shipping Code,Thursday,November,12,1
+12:31:33,12:32:01,F,Load Shipping Code,Thursday,November,12,1
+14:54:46,15:00:26,F,Check Input1 SC,Thursday,November,14,1
+15:12:10,15:17:40,F,Check Key Switch ON,Thursday,November,15,1
+16:14:21,16:20:13,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Thursday,November,16,1

@@ -1,0 +1,10 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+10:14:13,10:18:00,F,Check Key Switch ON,Monday,March,10,1
+10:56:56,10:58:57,F,Voltage Check +3V3,Monday,March,10,1
+10:59:25,11:03:00,F,Check Key Switch ON,Monday,March,10,1
+11:50:05,11:56:34,F,Check Input1 SC,Monday,March,11,1
+12:59:59,13:04:27,F,Start Earth Voltage Test,Monday,March,12,1
+13:49:45,13:52:22,F,Silence Alarms Key,Monday,March,13,0
+13:58:32,14:02:48,F,Check Key Switch ON,Monday,March,13,0
+14:56:17,15:04:33,F,Start Key Tests,Monday,March,14,1
+15:22:10,15:23:07,F,RS485 COMMS CHECK,Monday,March,15,1

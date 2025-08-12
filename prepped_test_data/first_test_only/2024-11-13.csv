@@ -1,0 +1,11 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:48:06,08:52:47,F,Check Write Enable Switch Off,Wednesday,November,08,1
+09:38:12,09:39:30,F,Start Key Tests,Wednesday,November,09,0
+09:49:10,09:54:13,F,Measure NC Terminal FAULT,Wednesday,November,09,1
+11:20:58,11:22:02,F,RS485 COMMS CHECK,Wednesday,November,11,1
+11:38:10,11:40:29,F,Start Key Tests,Wednesday,November,11,0
+13:58:54,14:06:05,F,Check Key Switch ON,Wednesday,November,13,1
+14:33:07,14:36:57,F,Check Key Switch ON,Wednesday,November,14,0
+14:44:12,14:48:41,F,Check Input1 SC,Wednesday,November,14,1
+16:11:37,16:11:49,F, Power On,Wednesday,November,16,1
+16:26:14,16:32:01,F,Check Input2 SC,Wednesday,November,16,1

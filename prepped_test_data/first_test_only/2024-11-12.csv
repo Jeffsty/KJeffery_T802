@@ -1,0 +1,7 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+09:03:24,09:09:13,F,Check Mon Input OC,Tuesday,November,09,0
+10:19:34,10:23:13,F,Check Key Switch ON,Tuesday,November,10,1
+13:38:48,13:41:34,F,Measure +3V3 EXP,Tuesday,November,13,0
+14:39:01,14:43:35,F,Check Input1 SC,Tuesday,November,14,1
+16:05:31,16:08:13,F,Voltage Check +3V3,Tuesday,November,16,1
+16:23:42,16:24:39,F,RS485 COMMS CHECK,Tuesday,November,16,0

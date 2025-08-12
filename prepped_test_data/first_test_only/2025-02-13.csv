@@ -1,0 +1,7 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:19:35,08:24:23,F,Check Write Enable Switch Off,Thursday,February,08,1
+09:42:29,09:46:59,F,Silence Alarms Key,Thursday,February,09,1
+10:33:13,10:36:18,F,Check Expansion Inputs RX5 LO,Thursday,February,10,1
+12:07:28,12:08:29,F,RS485 COMMS CHECK,Thursday,February,12,1
+13:04:34,13:07:40,F,Check Key Switch ON,Thursday,February,13,1
+15:34:35,15:39:23,F,Check Key Switch ON,Thursday,February,15,0

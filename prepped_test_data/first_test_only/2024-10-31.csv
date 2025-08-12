@@ -1,0 +1,7 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:45:03,08:50:54,F,Start Key Tests,Thursday,October,08,1
+10:49:06,10:55:38,F,Check Key Switch ON,Thursday,October,10,1
+11:14:35,11:15:39,F,RS485 COMMS CHECK,Thursday,October,11,1
+12:22:37,12:27:55,F,Check Key Switch ON,Thursday,October,12,1
+14:07:04,14:13:17,F,Check Output Test Response 1,Thursday,October,14,1
+14:42:31,14:43:33,F,RS485 COMMS CHECK,Thursday,October,14,0

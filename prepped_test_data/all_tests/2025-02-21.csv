@@ -1,0 +1,6 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:04:03,08:09:27,F,Check Input1 SC,Friday,February,08,1
+08:45:10,08:50:27,F,Check Input1 SC,Friday,February,08,1
+10:58:19,11:02:04,F,Voltage Check +3V3,Friday,February,10,0
+11:28:21,11:31:10,F,Model Check: 4 zone tested on 2 zone sequence...PLEASE  RETEST,Friday,February,11,1
+11:46:57,11:53:37,F,Check Input1 SC,Friday,February,11,1

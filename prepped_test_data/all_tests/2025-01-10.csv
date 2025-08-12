@@ -1,0 +1,15 @@
+Test Start Time,Test End Time,Result,Failed Test Case,Day of Week,Month,Hour,False Positive
+08:26:32,08:27:47,F,RS485 COMMS CHECK,Friday,January,08,0
+08:28:25,08:29:20,F,RS485 COMMS CHECK,Friday,January,08,0
+09:43:40,09:48:32,F,Start Key Tests,Friday,January,09,0
+09:49:01,09:52:22,F,Start Key Tests,Friday,January,09,0
+10:16:11,10:22:01,F,Check Input1 SC,Friday,January,10,1
+10:47:38,10:53:46,F,Check Output Test Response 1,Friday,January,10,0
+10:54:53,11:01:26,F,Check Output Test Response 1,Friday,January,10,0
+11:02:16,11:07:19,F,Check Output Test Response 1,Friday,January,11,0
+11:09:59,11:13:05,F,Start Key Tests,Friday,January,11,1
+12:21:47,12:25:32,F,Silence Alarms Key,Friday,January,12,1
+13:18:25,13:23:49,F,Voltage Check +3V3,Friday,January,13,0
+13:23:53,13:24:49,F,Resistance Measure +3V3,Friday,January,13,0
+13:32:31,13:37:17,F,1 Key,Friday,January,13,1
+13:37:49,13:41:34,F,Check Key Switch ON,Friday,January,13,1
